@@ -12,7 +12,7 @@ This project demonstrates a Python script for interacting with an AWS S3 bucket.
 ## Installation
 1. Clone this repository:
    ```
-   git clone <repository-url>
+   git clone https://github.com/ValeriiVasianovych/S3-Python-Boto3.git
    ```
 
 2. Install required Python packages:
