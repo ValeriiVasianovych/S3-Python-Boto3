@@ -3,7 +3,7 @@
 This project demonstrates a Python script for interacting with an AWS S3 bucket. It provides functionalities to upload files and directories, download files and directories, delete files, delete directories, and view the content of the S3 bucket.
 
 ## Project Scheme
-![alt text](scheme.jpg)
+![scheme-image](scheme.png)
 
 ## Prerequisites
 - Python 3.x
